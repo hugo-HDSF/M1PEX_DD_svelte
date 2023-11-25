@@ -13,6 +13,7 @@
 ![Svelte](https://img.shields.io/badge/-Svelte_4.2.3-FF3E00?logo=svelte&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite_5.0.0-646CFF?logo=vite&logoColor=white)
 </div>
+
 -----
 
 ## Table Of Contents
@@ -71,4 +72,4 @@ Distributed under the MIT License.
 * [Simple Icons](https://simpleicons.org/)
 * [Readme Generator](https://readme.shaankhan.dev/)
 
-###### _Study Project | (MASTER) 2023-2024
+###### _Study Project | (MASTER) 2023-2024_

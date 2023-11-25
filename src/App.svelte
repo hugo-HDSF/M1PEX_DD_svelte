@@ -12,29 +12,29 @@
       title: 'Votre entreprise a décidé d’acquérir une solution SaaS pour sonportail de statistiques auprès d’un éditeur et vous devez rédiger dans l’appel d’offre la partie sur les exigences techniques en termes de sobriété numérique.\n' +
         'Listez les critères qui vous semblent non négociables sous forme de user stories fictives.',
       content: `
-        <div class="user-story"><b>User Story 1 :</b> En tant qu'éditeur, je dois m'assurer que ma solution est hébergée sur un serveur localisé en France pour réduire l'empreinte carbone due au transfert de données.</div>
-        <div class="development">Cela implique de choisir un hébergeur dont les datacenters sont situés en France, ce qui réduit la distance parcourue par les données et donc l'énergie consommée. De plus, cela garantit une meilleure conformité avec les réglementations européennes en matière de protection des données.</div>
-        <div class="user-story"><b>User Story 2 :</b> En tant qu'éditeur, je m'engage à utiliser des serveurs alimentés par des énergies renouvelables pour minimiser l'impact environnemental.</div>
-        <div class="development">Opter pour des hébergeurs qui utilisent l'énergie éolienne, solaire ou hydroélectrique pour alimenter leurs serveurs. Cela contribue à réduire significativement l'empreinte carbone du service numérique.</div>
-        <div class="user-story"><b>User Story 3 :</b> "En tant qu'éditeur, je dois garantir une faible consommation d'énergie de ma solution pour contribuer à la sobriété énergétique."</div>
-        <div class="development">Implique des pratiques telles que l'optimisation des performances des serveurs, l'utilisation efficace des ressources et la réduction des besoins en bande passante et en stockage.</div>
-        <div class="user-story"><b>User Story 4 :</b> "En tant qu'éditeur, je m'assure que ma solution est conçue pour minimiser l'utilisation de données et l'espace de stockage nécessaire."</div>
-        <div class="development">Cela peut être réalisé en optimisant les algorithmes, en compressant les données, et en évitant les redondances. Une telle approche réduit non seulement l'impact environnemental, mais améliore également la performance et l'accessibilité du service.</div>
-        <div class="user-story"><b>User Story 5 :</b> "En tant qu'éditeur, je dois prévoir une politique d’obsolescence logicielle responsable pour prolonger la durée de vie des équipements utilisés."</div>
-        <div class="development">Il s'agit de concevoir des logiciels qui restent fonctionnels et pertinents plus longtemps, évitant ainsi le renouvellement fréquent des équipements et la génération de déchets électroniques.</div>
+        <div class="user-story"><b>User Story 1 :</b> En tant qu'éditeur, je dois garantir une intégration parfaite avec les systèmes existants chez 24S pour assurer une transition fluide et sécurisée.</div>
+        <div class="development">Ceci implique une compatibilité technique avec les plateformes de commerce électronique et les bases de données de clients haut de gamme utilisées chez 24S.</div>
+        <div class="user-story"><b>User Story 2 :</b> En tant qu'éditeur, je dois fournir des outils d'analyse de données avancés pour permettre à 24S de personnaliser les expériences clients.</div>
+        <div class="development">Cela nécessite des capacités de traitement et d'analyse des données en temps réel pour offrir des insights précis sur les comportements des consommateurs.</div>
+        <div class="user-story"><b>User Story 3 :</b> La solution doit respecter les normes environnementales les plus élevées, conformément à l'engagement de LVMH en faveur de la durabilité.</div>
+        <div class="development">Cela implique l'utilisation de centres de données verts et la mise en œuvre de pratiques visant à minimiser l'empreinte écologique de la solution.</div>
+        <div class="user-story"><b>User Story 4 :</b> En tant qu'éditeur, je dois assurer une haute disponibilité et une résilience du système, essentielles pour le commerce en ligne de luxe.</div>
+        <div class="development">Cela signifie maintenir une infrastructure robuste et des plans de secours pour garantir une expérience client ininterrompue.</div>
+        <div class="user-story"><b>User Story 5 :</b> Je dois fournir une solution hautement évolutive pour accompagner la croissance et l'expansion internationale de 24S.</div>
+        <div class="development">La solution doit pouvoir s'adapter facilement à un volume croissant de transactions et à une clientèle mondiale.</div>
         `,
       isOpen: false,
     },
     {
       id: 2,
       number: 'Question 2',
-      title: 'Quels éléments du cours allez-vous utiliser dans votre alternance ?',
+      title: 'Quels éléments du cours allez-vous utiliser dans votre alternance (pour les personnes qui ont trouvé) et/ou votre vie étudiante(pour les personnes en recherche) ?',
       content: `
-        <div class="element"><b>Application de la théorie du Donut :</b> Utiliser ce modèle pour évaluer et équilibrer les besoins numériques avec les limites environnementales et sociales. Par exemple, dans le développement de logiciels ou la planification de projets IT, on peut veiller à ce que les décisions prises ne dépassent pas les limites écologiques tout en répondant aux besoins sociaux fondamentaux.</div>
-        <div class="element"><b>Intégration de principes d'écoconception :</b> Appliquer ces principes dès la phase de conception des projets IT. Cela implique de penser à l'efficacité énergétique, à la réduction de l'empreinte carbone, et à la durabilité des produits et services développés.</div>
-        <div class="element"><b>Adoption de pratiques de sobriété numérique :</b> Cela peut se traduire par l'utilisation rationnelle des ressources numériques, comme limiter les réunions vidéo à l'essentiel, optimiser l'utilisation des emails, et encourager les pratiques d'impression responsable.</div>
-        <div class="element"><b>Sensibilisation aux impacts environnementaux du numérique :</b> Organiser des ateliers ou des discussions sur l'empreinte carbone du numérique, les effets de l'obsolescence programmée, et les moyens de réduire l'impact environnemental de nos usages numériques.</div>
-      `,
+        <div class="element"><b>Intégration de l'intelligence artificielle :</b> Utilisation de l'IA pour améliorer la personnalisation des services et l'expérience client chez 24S, en cohérence avec la stratégie numérique de LVMH.</div>
+        <div class="element"><b>Focus sur la sécurité des données :</b> Renforcer la sécurité des données dans tous les développements, en reconnaissant l'importance de la confidentialité des données pour les clients de luxe.</div>
+        <div class="element"><b>Optimisation des performances :</b> Appliquer des stratégies pour améliorer l'efficacité des systèmes back-end, réduisant ainsi les coûts et l'impact environnemental.</div>
+        <div class="element"><b>Approches centrées sur l'utilisateur :</b> Développer des solutions mettant l'accent sur l'expérience utilisateur, essentielle dans le secteur du luxe.</div>
+        `,
       isOpen: false,
     },
     {
@@ -43,15 +43,15 @@
       title: 'Comment évaluez-vous la maturité de sobriété numérique de votre organisation? (ou d’une autre organisation si pas encore d’alternance). Détaillez les actions déjà mises en œuvre et ce qu’il faudrait selon vous améliorer.',
       content: `
         <div class="title-element"><b>Actions Mises en Œuvre :</b></div>
-        <div class="element"><b>Utilisation de serveurs verts :</b> Choix d'hébergeurs éco-responsables pour les services IT.</div>
-        <div class="element"><b>Politique de recyclage :</b> Mise en place d'un système de gestion des équipements IT en fin de vie, favorisant le recyclage et la réutilisation.</div>
-        <div class="element"><b>Sensibilisation :</b> Formation des employés aux bonnes pratiques environnementales, comme l'extinction des appareils non utilisés, l'optimisation des paramètres d'économie d'énergie, etc.</div>
+        <div class="element"><b>Infrastructure Cloud éco-responsable :</b> Utilisation de solutions cloud énergétiquement efficaces et alimentées par des énergies renouvelables, alignées avec les objectifs de durabilité du groupe LVMH.</div>
+        <div class="element"><b>Stratégies de réduction des déchets numériques :</b> Implémentation de politiques visant à minimiser les déchets électroniques, y compris le recyclage et la réutilisation des équipements informatiques.</div>
+        <div class="element"><b>Programmes de sensibilisation à l'environnement :</b> Organisation régulière de sessions de formation pour sensibiliser les employés aux impacts environnementaux du numérique et encourager les pratiques durables.</div>
 
         <div class="title-element"><b>Améliorations Nécessaires :</b></div>
-        <div class="element"><b>Formation sur l'écoconception :</b> Organiser des formations régulières pour les équipes de développement sur les principes de l'écoconception.</div>
-        <div class="element"><b>Politiques d'achat durable :</b> Adopter des critères écologiques et sociaux dans le processus d'achat de matériel IT.</div>
-        <div class="element"><b>Augmentation de l'utilisation de logiciels open source :</b> Réduire la dépendance à des logiciels propriétaires qui peuvent encourager l'obsolescence logicielle.</div>
-      `,
+        <div class="element"><b>Renforcement de l'écoconception :</b> Intégrer davantage de principes d'écoconception dans le développement de nouveaux produits et services numériques, réduisant ainsi l'empreinte écologique.</div>
+        <div class="element"><b>Optimisation des processus IT :</b> Examiner et améliorer les processus informatiques pour augmenter l'efficacité énergétique et réduire la consommation de ressources.</div>
+        <div class="element"><b>Adoption accrue de technologies durables :</b> Explorer des solutions technologiques innovantes pour réduire davantage l'impact environnemental, telles que l'IA pour optimiser l'utilisation des ressources.</div>
+    `,
       isOpen: false,
     },
     {
@@ -59,10 +59,12 @@
       number: 'Question 4',
       title: 'Comment imaginez-vous le numérique en 2050?',
       content: `
-        <div class="element"><b>Technologies Avancées :</b> Prévision d'une évolution vers des technologies plus durables, comme l'utilisation généralisée de l'intelligence artificielle pour optimiser la consommation d'énergie et de ressources dans le numérique.</div>
-        <div class="element"><b>Société et Comportement :</b> Une plus grande sensibilisation à l'impact environnemental du numérique pourrait conduire à des comportements plus responsables, privilégiant l'efficacité et la durabilité sur la consommation excessive.</div>
-        <div class="element"><b>Réglementations et Normes :</b> Anticipation d'une législation plus stricte concernant l'impact environnemental des entreprises numériques, avec des normes obligatoires sur l'écoconception, la réparabilité et le recyclage des produits numériques.</div>
-      `,
+        <div class="element"><b>Innovations numériques dans le luxe :</b> Utilisation de technologies avancées pour enrichir l'expérience client dans le luxe.</div>
+        <div class="element"><b>Engagement envers la durabilité :</b> Focus continu sur le développement de solutions numériques durables.</div>
+        <div class="element"><b>Développement de produits personnalisés :</b> Création de produits et services de luxe hautement personnalisés grâce au numérique.</div>
+        <div class="element"><b>Expériences immersives :</b> Intégration de la réalité augmentée et virtuelle pour proposer des expériences d'achat uniques.</div>
+        <div class="element"><b>Commerce électronique intégré :</b> Développement continu du commerce en ligne pour répondre aux attentes des clients de luxe.</div>
+        `,
       isOpen: false,
     },
   ];
